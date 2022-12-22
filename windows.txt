@@ -93,3 +93,4 @@ C:/Windows/System32/inetsrv/config/schema/ASPNET_schema.xml
 C:/Windows/System32/inetsrv/config/applicationHost.config 
 C:/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
 C:/Users/Administrator/.ssh/id_rsa
+C:/Users/Administrator/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
