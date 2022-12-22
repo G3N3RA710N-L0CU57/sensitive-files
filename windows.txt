@@ -25,7 +25,8 @@ C:\Windows\System32\drivers\etc\hosts
 C:\Windows\System32\drivers\etc\networks
 C:\Windows\system32\config\SAM
 C:/Users/Administrator/NTUser.dat
-C:/Documents and Settings/Administrator/NTUser.dat
+C:/Documents/Administrator/NTUser.dat
+C:/Settings/Administrator/NTUser.dat
 C:/apache/logs/access.log 
 C:/apache/logs/error.log 
 C:/apache/php/php.ini 
